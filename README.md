@@ -39,6 +39,7 @@ My current focus is Python, where I’m moving from beginner toward an intermedi
 
 Guessing Game — A terminal-based Python game that applies core Python concepts and Object-Oriented Programming.
 Calculator — A simple terminal-based calculator built with Python.
+
 My Website — A personal website built with HTML.
 
 ## Interests
