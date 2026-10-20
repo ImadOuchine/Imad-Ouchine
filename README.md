@@ -15,11 +15,14 @@ My current focus is Python, where I’m moving from beginner toward an intermedi
 * Python (Approaching intermediate level)
 * Object-Oriented Programming
 * Problem Solving
+* SQLite — Basic practice
+* Tkinter — Getting started
 
 **Web Development**
 
-* HTML — Completed
-* CSS — Currently Learning
+* HTML
+* CSS
+* JavaScript — Basic 
 
 **Tools**
 
@@ -30,7 +33,7 @@ My current focus is Python, where I’m moving from beginner toward an intermedi
 ## Current Focus
 
 * Strengthening my Python fundamentals and OOP
-* Completing CSS
+* Learning JavaScript
 * Building practical projects
 * Improving my problem-solving skills
 * Learning how software is built beyond just writing code
