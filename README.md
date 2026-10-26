@@ -12,7 +12,7 @@ My current focus is Python, where I’m moving from beginner toward an intermedi
 
 **Programming**
 
-* Python (Approaching intermediate level)
+* Python intermediate 
 * Object-Oriented Programming
 * Problem Solving
 * SQLite — Basic practice
